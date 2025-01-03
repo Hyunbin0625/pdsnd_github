@@ -290,17 +290,16 @@ def main():
         while True:
             raw_input = input("\nWould you like to see raw data? Enter yes or no: ").strip().lower()
             if raw_input == 'yes':
+                # Display raw data
                 raw_data(df)
                 break
             elif raw_input == 'no':
                 break
             else:
+                # Handle invalid input
                 print("Invalid input. Please enter 'yes' or 'no'.")
 
-        restart = input('\nWould you like to restart? Enter yes or no: ').strip().lower()
-        if restart != 'yes':
-            break
-
+        # Ask the user if they want to restart the program
         restart = input('\nWould you like to restart? Enter yes or no: ').strip().lower()
         if restart != 'yes':
             break
