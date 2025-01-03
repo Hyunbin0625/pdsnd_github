@@ -301,9 +301,5 @@ def main():
         if restart != 'yes':
             break
 
-        restart = input('\nWould you like to restart? Enter yes or no: ').strip().lower()
-        if restart != 'yes':
-            break
-
 if __name__ == "__main__":
     main()
