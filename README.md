@@ -1,5 +1,5 @@
 ### Date created
-January 4, 2025
+January 3, 2025
 
 ### Project Title
 US-Bike-Share: Udacity Python for Data Science Programming
@@ -14,6 +14,6 @@ new_york_city.csv: Bikeshare data for New York City
 washington.csv: Bikeshare data for Washington
 
 ### Credits
-The project utilizes public bikeshare system data provided by Motivate.
-Inspired by the Python for Data Science Programming program by Udacity.
+This project utilizes public bikeshare system data provided by Motivate.
+It was inspired by the Python for Data Science Programming program by Udacity.
 Additional reference: https://blog.naver.com/kimhb0625
