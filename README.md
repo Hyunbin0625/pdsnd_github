@@ -20,6 +20,7 @@ Using Python, it uncovers trends in bike usage, identifies popular stations, exa
 ## Example of Running the program
 
 ![NewYorkcity_01](https://github.com/user-attachments/assets/ee264258-8336-42e9-8cd8-bdf624585ee0)
+![NewYorkcity_02](https://github.com/user-attachments/assets/01bd7ac0-127a-4cfb-9c7b-10d582b68eae)
 
 ### Credits
 This project utilizes public bikeshare system data provided by Motivate.
